@@ -1,0 +1,7 @@
+C:\Program Files (x86)\OVFahrtenbuch\Shared\OVF.Administrator.Logic.dll
+C:\Program Files (x86)\OVFahrtenbuch\Shared\OVF.Administrator.Logic.pdb
+C:\Program Files (x86)\OVFahrtenbuch\Shared\OVF.Administrator.Logic.dll.CodeAnalysisLog.xml
+C:\Program Files (x86)\OVFahrtenbuch\Shared\OVF.Administrator.Logic.dll.lastcodeanalysissucceeded
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.Logic\obj\Debug\OVF.Administrator.Logic.csproj.CopyComplete
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.Logic\obj\Debug\OVF.Administrator.Logic.dll
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.Logic\obj\Debug\OVF.Administrator.Logic.pdb

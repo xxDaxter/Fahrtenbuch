@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OVF.Administrator.GUI", "OV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OVF.Administrator.Logic", "OVF.Administrator.Logic\OVF.Administrator.Logic.csproj", "{C3C7F860-270F-4643-9A44-2CCA76039ECE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OV.Framework", "OV.Framework\OV.Framework.csproj", "{47BF91A6-DBE4-42B3-91BC-C8959F938E18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C3C7F860-270F-4643-9A44-2CCA76039ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3C7F860-270F-4643-9A44-2CCA76039ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3C7F860-270F-4643-9A44-2CCA76039ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BF91A6-DBE4-42B3-91BC-C8959F938E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BF91A6-DBE4-42B3-91BC-C8959F938E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BF91A6-DBE4-42B3-91BC-C8959F938E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BF91A6-DBE4-42B3-91BC-C8959F938E18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

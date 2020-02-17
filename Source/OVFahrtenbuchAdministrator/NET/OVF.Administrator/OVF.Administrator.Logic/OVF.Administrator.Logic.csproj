@@ -39,10 +39,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="OV.Framework, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\OVFahrtenbuch\Shared\OV.Framework.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -72,9 +68,9 @@
     <Analyzer Include="..\packages\Microsoft.NetFramework.Analyzers.2.9.6\analyzers\dotnet\cs\Microsoft.NetFramework.CSharp.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OVF.Administrator.GUI\OVF.Administrator.GUI.csproj">
-      <Project>{9b051b57-00c1-40a4-a17b-9ca86abbf9e9}</Project>
-      <Name>OVF.Administrator.GUI</Name>
+    <ProjectReference Include="..\OV.Framework\OV.Framework.csproj">
+      <Project>{47bf91a6-dbe4-42b3-91bc-c8959f938e18}</Project>
+      <Name>OV.Framework</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

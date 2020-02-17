@@ -8,13 +8,13 @@ C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Ad
 OVF.Administrator.GUI
 none
 false
-CODE_ANALYSIS;DEBUG;TRACE
+DEBUG;TRACE
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\App.xaml
-2-2032724661
+2-450385445
 
-6-1722817301
-13-1505183044
-Formulare\Hauptmenue\Hauptmenue.xaml;MainWindow.xaml;
+6-1470059179
+15-1521988690
+Formulare\Hauptmenue\frmAdministratorHauptmenu.xaml;MainWindow.xaml;
 
 False
 

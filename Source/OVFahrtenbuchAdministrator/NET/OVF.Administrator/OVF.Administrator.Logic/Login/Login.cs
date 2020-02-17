@@ -1,6 +1,6 @@
 ﻿namespace OVF.Administrator.Logic.Login
 {
-    class Login
+    public class Login
     {
         #region "members"
 

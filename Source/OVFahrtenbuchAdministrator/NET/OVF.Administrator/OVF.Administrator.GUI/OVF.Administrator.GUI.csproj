@@ -20,7 +20,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>..\..\..\BIN\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -55,7 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="Formulare\Hauptmenue\Hauptmenue.xaml">
+    <Page Include="Formulare\Hauptmenue\frmAdministratorHauptmenu.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -67,8 +67,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Formulare\Hauptmenue\Hauptmenue.xaml.cs">
-      <DependentUpon>Hauptmenue.xaml</DependentUpon>
+    <Compile Include="Formulare\Hauptmenue\frmAdministratorHauptmenu.xaml.cs">
+      <DependentUpon>frmAdministratorHauptmenu.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -100,6 +100,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OV.Framework\OV.Framework.csproj">
+      <Project>{47bf91a6-dbe4-42b3-91bc-c8959f938e18}</Project>
+      <Name>OV.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OVF.Administrator.Logic\OVF.Administrator.Logic.csproj">
+      <Project>{c3c7f860-270f-4643-9a44-2cca76039ece}</Project>
+      <Name>OVF.Administrator.Logic</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

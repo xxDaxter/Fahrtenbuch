@@ -14,6 +14,14 @@ namespace OVF.Administrator.GUI
         public MainWindow()
         {
             InitializeComponent();
+            if (CheckIfConfigExists() == false)
+            {
+                txtPassword2.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                txtPassword2.Visibility = Visibility.Hidden;
+            }
         }
 
         #region "events"
@@ -25,12 +33,11 @@ namespace OVF.Administrator.GUI
 
         #region "methods"
         #region "private"
-        private void CheckIfConfigExists()
+        private bool CheckIfConfigExists()
         {
-            
+            return OV.Framework.Helper.XML.XMLHelper.CheckIfXmlExists(OVF.Administrator.Logic.Constants.Constants.XMLPATH);
         }
         #endregion
         #endregion
-
     }
 }

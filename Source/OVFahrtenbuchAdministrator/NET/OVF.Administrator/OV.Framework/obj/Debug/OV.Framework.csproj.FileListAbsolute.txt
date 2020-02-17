@@ -1,0 +1,8 @@
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OV.Framework\bin\Debug\OV.Framework.dll
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OV.Framework\bin\Debug\OV.Framework.pdb
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OV.Framework\obj\Debug\OV.Framework.dll
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OV.Framework\obj\Debug\OV.Framework.pdb
+C:\Program Files (x86)\OVFahrtenbuch\Shared\OV.Framework.dll
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\BIN\OV.Framework.dll
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\BIN\OV.Framework.pdb
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OV.Framework\obj\Debug\OV.Framework.csprojAssemblyReference.cache

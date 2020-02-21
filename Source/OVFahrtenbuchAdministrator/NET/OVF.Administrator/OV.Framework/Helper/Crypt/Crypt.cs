@@ -1,16 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace OV.Framework.Helper.Crypt
 {
     public static class Crypt
     {
-        public static string EncryptString(string password, string salt)
+        public static string EncryptString(string password)
         {
-            return null;
+            using (MD5CryptoServiceProvider md5 = new MD5CryptoServiceProvider())
+            {
+                UTF8Encoding utf8 = new UTF8Encoding();
+                byte[] data = md5.ComputeHash(utf8.GetBytes(password));
+                return Convert.ToBase64String(data);
+            }                
         }
     }
 }

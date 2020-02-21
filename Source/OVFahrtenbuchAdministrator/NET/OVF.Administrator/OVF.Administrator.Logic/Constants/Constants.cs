@@ -4,6 +4,7 @@
     {
         #region "constants"
         public const string XMLPATH = "C:\\ProgramData\\OVF\\Config\\OVFConfig.xml";
+        public const string ADMINPATH = "C:\\ProgramData\\OVF\\Config\\OVFAdminConfig.xml";
         #endregion
     }
 }

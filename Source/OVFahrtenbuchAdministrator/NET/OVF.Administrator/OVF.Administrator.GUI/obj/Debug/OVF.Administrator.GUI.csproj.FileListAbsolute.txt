@@ -5,11 +5,16 @@ C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Ad
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\bin\Debug\OVF.Administrator.GUI.exe.lastcodeanalysissucceeded
 C:\Program Files (x86)\OVFahrtenbuch\Shared\OVF.Administrator.GUI.exe
 C:\Program Files (x86)\OVFahrtenbuch\Shared\OVF.Administrator.GUI.exe.config
+C:\Program Files (x86)\OVFahrtenbuch\Shared\OVF.Administrator.GUI.pdb
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\Formulare\Hauptmenue\frmAdministratorHauptmenu.g.cs
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\MainWindow.g.cs
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\App.g.cs
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\OVF.Administrator.GUI_MarkupCompile.cache
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\OVF.Administrator.GUI_MarkupCompile.lref
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\BIN\OVF.Administrator.GUI.exe.config
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\BIN\OVF.Administrator.GUI.exe
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\BIN\OVF.Administrator.GUI.pdb
+C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\OVF.Administrator.GUI.csprojAssemblyReference.cache
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\Formulare\Hauptmenue\frmAdministratorHauptmenu.baml
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\MainWindow.baml
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\OVF.Administrator.GUI.g.resources
@@ -18,8 +23,3 @@ C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Ad
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\OVF.Administrator.GUI.csproj.CopyComplete
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\OVF.Administrator.GUI.exe
 C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\OVF.Administrator.GUI.pdb
-C:\Program Files (x86)\OVFahrtenbuch\Shared\OVF.Administrator.GUI.pdb
-C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\NET\OVF.Administrator\OVF.Administrator.GUI\obj\Debug\OVF.Administrator.GUI.csprojAssemblyReference.cache
-C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\BIN\OVF.Administrator.GUI.exe.config
-C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\BIN\OVF.Administrator.GUI.exe
-C:\Entwicklung\CSharp\OVFahrtenbuch\Source\OVFahrtenbuchAdministrator\BIN\OVF.Administrator.GUI.pdb
